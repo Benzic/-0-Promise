@@ -1,2 +1,1 @@
-# -0-Promise
-# Promise
+# 自定义Promise源码  ts是TypeScript版本 
